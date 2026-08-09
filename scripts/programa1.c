@@ -25,6 +25,8 @@ void select_sort(int vetor[], int tam) {
 
 
 int main() {
+    printf("tuehgay"); // testes
+
     int vetor[5] = {10, 33, 18, 25, 42};
 
     select_sort(vetor, 5);
