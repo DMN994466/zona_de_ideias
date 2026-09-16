@@ -1,0 +1,15 @@
+/home/david/zona_de_ideias/TesteCS/bin/Debug/net8.0/TesteCS
+/home/david/zona_de_ideias/TesteCS/bin/Debug/net8.0/TesteCS.deps.json
+/home/david/zona_de_ideias/TesteCS/bin/Debug/net8.0/TesteCS.runtimeconfig.json
+/home/david/zona_de_ideias/TesteCS/bin/Debug/net8.0/TesteCS.dll
+/home/david/zona_de_ideias/TesteCS/bin/Debug/net8.0/TesteCS.pdb
+/home/david/zona_de_ideias/TesteCS/obj/Debug/net8.0/TesteCS.GeneratedMSBuildEditorConfig.editorconfig
+/home/david/zona_de_ideias/TesteCS/obj/Debug/net8.0/TesteCS.AssemblyInfoInputs.cache
+/home/david/zona_de_ideias/TesteCS/obj/Debug/net8.0/TesteCS.AssemblyInfo.cs
+/home/david/zona_de_ideias/TesteCS/obj/Debug/net8.0/TesteCS.csproj.CoreCompileInputs.cache
+/home/david/zona_de_ideias/TesteCS/obj/Debug/net8.0/TesteCS.sourcelink.json
+/home/david/zona_de_ideias/TesteCS/obj/Debug/net8.0/TesteCS.dll
+/home/david/zona_de_ideias/TesteCS/obj/Debug/net8.0/refint/TesteCS.dll
+/home/david/zona_de_ideias/TesteCS/obj/Debug/net8.0/TesteCS.pdb
+/home/david/zona_de_ideias/TesteCS/obj/Debug/net8.0/TesteCS.genruntimeconfig.cache
+/home/david/zona_de_ideias/TesteCS/obj/Debug/net8.0/ref/TesteCS.dll
