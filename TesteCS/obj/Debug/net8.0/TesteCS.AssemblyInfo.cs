@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TesteCS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea2e4615a09482088685e3acb351febf010d725c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73efb1a8e855fc9b786116fa74f3326f8ff3a214")]
 [assembly: System.Reflection.AssemblyProductAttribute("TesteCS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TesteCS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
